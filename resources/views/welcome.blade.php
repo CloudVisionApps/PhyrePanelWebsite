@@ -19,7 +19,7 @@
             <h1 class="text-3xl">PhyrePanel</h1>
             <h2 class="text-2xl">Open source web hosting control panel.</h2>
             <p>
-                Control your websteis easily with PhyrePanel.
+                Control your websites easily with PhyrePanel.
             </p>
            <div class="mt-12 m-auto w-[40rem]">
                To see how it works, just install it!
